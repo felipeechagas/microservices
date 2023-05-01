@@ -1,4 +1,4 @@
-package br.com.felipe.foo.exception;
+package br.com.foo.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

@@ -1,4 +1,4 @@
-package br.com.felipe.foo.model;
+package br.com.foo.model;
 
 import java.io.Serializable;
 import java.util.Objects;

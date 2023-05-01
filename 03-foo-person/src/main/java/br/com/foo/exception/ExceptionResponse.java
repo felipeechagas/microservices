@@ -1,4 +1,4 @@
-package br.com.felipe.foo.exception;
+package br.com.foo.exception;
 
 import java.io.Serializable;
 import java.util.Date;

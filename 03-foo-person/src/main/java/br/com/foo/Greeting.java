@@ -1,4 +1,4 @@
-package br.com.felipe.foo;
+package br.com.foo;
 
 public class Greeting {
 

@@ -1,7 +1,7 @@
-package br.com.felipe.foo.handler;
+package br.com.foo.handler;
 
-import br.com.felipe.foo.exception.ExceptionResponse;
-import br.com.felipe.foo.exception.UnsuportedMathOperationException;
+import br.com.foo.exception.ExceptionResponse;
+import br.com.foo.exception.UnsuportedMathOperationException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

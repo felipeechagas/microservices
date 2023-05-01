@@ -1,4 +1,4 @@
-package br.com.felipe.foo.math;
+package br.com.foo.math;
 
 /**
  *  simple math - Contém as operações básicas da matemática

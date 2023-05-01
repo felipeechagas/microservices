@@ -1,7 +1,7 @@
-package br.com.felipe.foo.controllers;
+package br.com.foo.controllers;
 
-import br.com.felipe.foo.model.Person;
-import br.com.felipe.foo.services.PersonService;
+import br.com.foo.model.Person;
+import br.com.foo.services.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;

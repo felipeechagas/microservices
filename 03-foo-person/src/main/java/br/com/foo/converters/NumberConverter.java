@@ -1,4 +1,4 @@
-package br.com.felipe.foo.converters;
+package br.com.foo.converters;
 
 public class NumberConverter {
 
